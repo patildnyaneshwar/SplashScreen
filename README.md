@@ -39,4 +39,4 @@ Here we create theme, in our example ``` Theme.App.Starting ```. Then we add the
 - ``` windowSplashScreenBrandingImage ``` to set an image to be shown at the bottom of the splash screen (specific to api ``` above 31 ```).
 - ``` postSplashScreenTheme ``` set the theme that will be used once the Splash screen is no longer visible.
 
-<script src="https://gist.github.com/patildnyaneshwar/f44573637e40d6d73638050deb641d5e.js"></script>
+<script src="https://gist.github.com/patildnyaneshwar/f44573637e40d6d73638050deb641d5e"></script>
