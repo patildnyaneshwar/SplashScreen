@@ -3,10 +3,10 @@
 Android 12 introduced us new [SplashScreen](https://developer.android.com/reference/android/window/SplashScreen) API, which enables a new app launch animation.
 
 <p align="center">
-  <img width="300" height="500" src="https://developer.android.com/about/versions/12/images/splash-screen-gmail-example.gif">
+  <img width="300" height="500" src="https://developer.android.com/static/images/guide/topics/ui/splash-screen/splash-screen-gmail-example.gif">
 </p>
 <p align="center">
-*SplashScreen Example for Android Developers*
+SplashScreen Example for Android Developers
 </p>
 
 ## How the splash screen works
